@@ -45,7 +45,7 @@
     <employee>
         <name>George Moreau</name>
         <age>40</age>
-        <city>Strasbourg</age>
+        <city>Strasbourg</city>
         <email>george.moreau@example.com</email>
         <department>Management</department>
     </employee>
