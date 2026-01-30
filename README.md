@@ -141,7 +141,9 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 ## 👥 Auteurs
 
-- **Équipe Projet Final Python** - [YNOV](https://www.ynov.com/)
+- **Nicolas GOUY** - [GitHub](https://github.com/gonicolas12)
+- **Alexis REDAUD** - [GitHub](https://github.com/alx-18)
+- **Josué ADAMI** - [GitHub](https://github.com/joadm973)
 
 ## 🙏 Remerciements
 
