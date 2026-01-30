@@ -294,6 +294,22 @@ python -m project_parser.main parse data.csv --quiet
 
 ---
 
+## 🧪 Tests manuels rapides
+
+```bash
+# Tester le CLI
+python -m project_parser.main parse tests/fixtures/sample.csv
+python -m project_parser.main convert tests/fixtures/sample.csv --output outputs/output.json
+python -m project_parser.main info tests/fixtures/sample.json
+
+# Tester les exemples
+python examples/example_csv.py
+python examples/example_json.py
+python examples/example_xml.py
+```
+
+---
+
 ## 💡 Exemples pratiques
 
 ### Exemple 1 : Fusion de plusieurs CSV
