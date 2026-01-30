@@ -1,0 +1,11 @@
+name,age,city,email,department
+Alice Martin,30,Paris,alice.martin@example.com,Engineering
+Bob Dupont,25,Lyon,bob.dupont@example.com,Marketing
+Charlie Bernard,35,Marseille,charlie.bernard@example.com,Sales
+Diana Rousseau,28,Toulouse,diana.rousseau@example.com,HR
+Ethan Leroy,32,Nice,ethan.leroy@example.com,Engineering
+Fiona Dubois,27,Nantes,fiona.dubois@example.com,Finance
+George Moreau,40,Strasbourg,george.moreau@example.com,Management
+Hannah Laurent,29,Bordeaux,hannah.laurent@example.com,Marketing
+Ian Simon,31,Lille,ian.simon@example.com,Engineering
+Julia Petit,26,Rennes,julia.petit@example.com,Sales

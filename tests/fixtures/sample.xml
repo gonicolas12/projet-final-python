@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <name>Alice Martin</name>
+        <age>30</age>
+        <city>Paris</city>
+        <email>alice.martin@example.com</email>
+        <department>Engineering</department>
+    </employee>
+    <employee>
+        <name>Bob Dupont</name>
+        <age>25</age>
+        <city>Lyon</city>
+        <email>bob.dupont@example.com</email>
+        <department>Marketing</department>
+    </employee>
+    <employee>
+        <name>Charlie Bernard</name>
+        <age>35</age>
+        <city>Marseille</city>
+        <email>charlie.bernard@example.com</email>
+        <department>Sales</department>
+    </employee>
+    <employee>
+        <name>Diana Rousseau</name>
+        <age>28</age>
+        <city>Toulouse</city>
+        <email>diana.rousseau@example.com</email>
+        <department>HR</department>
+    </employee>
+    <employee>
+        <name>Ethan Leroy</name>
+        <age>32</age>
+        <city>Nice</city>
+        <email>ethan.leroy@example.com</email>
+        <department>Engineering</department>
+    </employee>
+    <employee>
+        <name>Fiona Dubois</name>
+        <age>27</age>
+        <city>Nantes</city>
+        <email>fiona.dubois@example.com</email>
+        <department>Finance</department>
+    </employee>
+    <employee>
+        <name>George Moreau</name>
+        <age>40</age>
+        <city>Strasbourg</age>
+        <email>george.moreau@example.com</email>
+        <department>Management</department>
+    </employee>
+    <employee>
+        <name>Hannah Laurent</name>
+        <age>29</age>
+        <city>Bordeaux</city>
+        <email>hannah.laurent@example.com</email>
+        <department>Marketing</department>
+    </employee>
+    <employee>
+        <name>Ian Simon</name>
+        <age>31</age>
+        <city>Lille</city>
+        <email>ian.simon@example.com</email>
+        <department>Engineering</department>
+    </employee>
+    <employee>
+        <name>Julia Petit</name>
+        <age>26</age>
+        <city>Rennes</city>
+        <email>julia.petit@example.com</email>
+        <department>Sales</department>
+    </employee>
+</employees>

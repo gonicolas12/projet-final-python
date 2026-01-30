@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Alice Martin",
+    "age": 30,
+    "city": "Paris",
+    "email": "alice.martin@example.com",
+    "department": "Engineering"
+  },
+  {
+    "name": "Bob Dupont",
+    "age": 25,
+    "city": "Lyon",
+    "email": "bob.dupont@example.com",
+    "department": "Marketing"
+  },
+  {
+    "name": "Charlie Bernard",
+    "age": 35,
+    "city": "Marseille",
+    "email": "charlie.bernard@example.com",
+    "department": "Sales"
+  },
+  {
+    "name": "Diana Rousseau",
+    "age": 28,
+    "city": "Toulouse",
+    "email": "diana.rousseau@example.com",
+    "department": "HR"
+  },
+  {
+    "name": "Ethan Leroy",
+    "age": 32,
+    "city": "Nice",
+    "email": "ethan.leroy@example.com",
+    "department": "Engineering"
+  },
+  {
+    "name": "Fiona Dubois",
+    "age": 27,
+    "city": "Nantes",
+    "email": "fiona.dubois@example.com",
+    "department": "Finance"
+  },
+  {
+    "name": "George Moreau",
+    "age": 40,
+    "city": "Strasbourg",
+    "email": "george.moreau@example.com",
+    "department": "Management"
+  },
+  {
+    "name": "Hannah Laurent",
+    "age": 29,
+    "city": "Bordeaux",
+    "email": "hannah.laurent@example.com",
+    "department": "Marketing"
+  },
+  {
+    "name": "Ian Simon",
+    "age": 31,
+    "city": "Lille",
+    "email": "ian.simon@example.com",
+    "department": "Engineering"
+  },
+  {
+    "name": "Julia Petit",
+    "age": 26,
+    "city": "Rennes",
+    "email": "julia.petit@example.com",
+    "department": "Sales"
+  }
+]
